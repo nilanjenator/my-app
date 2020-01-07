@@ -18,12 +18,12 @@ java com.mycompany.app.App
   Reversed string is:
   dcba
 
-# The Requirement:
-# Req 1: 
+# Questions:
+# Question 1: 
 Create a pipeline as a code which will do the following tasks:
  Checkout Repo -> Compile Code -> Run Unit Tests -> Publish reports in CI Orchestrator (like Jenkins/Gitlab CI etc) -> If all tests are passed then Archive the code.
 
-# Req 2:
+# Question 2:
 Create a pipeline as a code which will do the following tasks:
  Checkout Repo -> Compile Code -> Run Unit Tests -> Run Code coverage Tests -> Publish reports in CI Orchestrator (like Jenkins/Gitlab CI etc) -> If all tests are passed and Code Coverage is more than 90% then Archive the code.
 
