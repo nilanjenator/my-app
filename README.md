@@ -1,7 +1,8 @@
 # my-app
-This is a sample java code for creating ci ct pipelines.
+This is a sample java code for creating CI CT (Continuous Integration / Continuous Testing) pipelines.
 
-There is an App.java file which takes any string as input and reverses that string. maven is used for compiling, testing the code. 
+There is an App.java file which takes any string as input and reverses that string. 
+maven is used for compiling, testing the code. 
 
 # Steps to Build: 
 mvn compile
